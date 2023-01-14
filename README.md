@@ -12,5 +12,8 @@ Starfell is an on-going collection of mods that are developed by third party dev
 ## Prerequisits
 This license requires the Java variant of Minecraft. If you are using the Bedrock or Windows 10 variant of Minecraft, this pack will not work. Additionally, this modpack will require the installation of Java on your system. To install Java, it is recommended to download and install the ![IBM Sumeru variant}(https://developer.ibm.com/languages/java/semeru-runtimes/) of the Java runtime environment, but any Java version past Java 17 will suffice. Once these pre-requisits are installed, please follow the ![setup and installation guide](./docs/installation.md) in the docs folder of this repo.
 
+## License
+This modpack (scripts, configurations, profiles) is licensed under the MIT - see the [LICENSE.md](LICENSE.md) file for details.
+
 ## Contributors
-![Nathaniel Knudsen](https://github.com/stoicswe)
+_Original Developer_ Nathaniel Knudsen [!Twitter-logo(https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/stoicswe)
