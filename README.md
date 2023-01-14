@@ -16,4 +16,4 @@ This license requires the Java variant of Minecraft. If you are using the Bedroc
 This modpack (scripts, configurations, profiles) is licensed under the MIT - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contributors
-_Original Developer_ Nathaniel Knudsen [![Twitter-logo](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/stoicswe)
+_Original Developer_ Nathaniel Knudsen [![Twitter-logo](https://img.shields.io/badge/Twitter-blue?style=social&logo=twitter&logoColor=white)](https://twitter.com/stoicswe)
