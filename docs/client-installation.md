@@ -28,9 +28,33 @@ JCL      - 32d2c409a33 based on jdk-17.0.5+8)
 ```
 
 ### _Minecraft_
-Installing an earlier version of minecraft is a pretty trivial process, which can be done entirely within the minecraft launcher. Installing the correct vanilla version of minecraft is important, as it ensures the necessary minecraft runtimes are downloaded for the base of the modpack.
+Installing an earlier version of minecraft is a pretty trivial process, which can be done entirely within the minecraft launcher. Installing the correct vanilla version of minecraft is important, as it ensures the necessary minecraft runtimes are downloaded for the base of the modpack. The steps to getting an older version of Minecraft installed can be seen below.
 
-TODO: _Add screenshots and instructions for new players._
+1. Startup the launcher and click on the "**installations**" tab on the top of the launcher window. This is in the same tab row as the play, sklins, and patch notes.
+
+![step1-screenshot](./supplemental/vanilla-116-install/mc-116-step1.png)
+
+2. Once on the installations tab, click on the option to make a "**new installation**". This will bring you to a new page to select a new install (with an option to name the new installation).
+
+![step2-screenshot](./supplemental/vanilla-116-install/mc-116-step2.png)
+
+3. On the new installation screen, set the name of the installation to "_Starfall 1.16_", and make sure to select the **VERSION** of the game to be "_release 1.16.5_".
+
+![step3-screenshot](./supplemental/vanilla-116-install/mc-116-step3.png)
+
+4. One the name and version are entered, click on the down arrow that is labeled "**MORE OPTIONS**" (this is in the same area as the "**LESS OPTIONS**" as seen in the screenshot below). Adjust the value that is "_-Xnx2G_" to be "_-Xmx6G_". NOTE: If your computer has only 8GB of RAM, make this say "_-Xmx4G_" instead.
+
+![step4-screenshot](./supplemental/vanilla-116-install/mc-116-step4.png)
+
+5. Once you have set all these, click on the "**Create**" option to save your new installation. On the next screen you should see your installation show up.
+
+![step5-screenshot](./supplemental/vanilla-116-install/mc-116-step5.png)
+
+6. Click back to the "**Play**" tab and make sure your version next to the "PLAY" button is set to your new installation.
+
+![step6-screenshot](./supplemental/vanilla-116-install/mc-116-step6.png)
+
+7. Once you've selected the new installation, click the play button to install the main Minecraft 1.16 files. When the game launches, close it and then proceed to install the modpack!
 
 ## Modpack Installation
 TBD.
