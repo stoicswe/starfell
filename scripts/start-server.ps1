@@ -1,0 +1,1 @@
+java -Xms4048M -Xmx12048M -jar .\server.jar --nogui
