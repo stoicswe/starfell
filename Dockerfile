@@ -1,5 +1,7 @@
 FROM ubuntu:latest as starfall-builder
 
+ARG VERSION
+
 ######################################
 # BEGIN MAKING REQUIRED FOLDERS
 # Make base folder
@@ -37,6 +39,6 @@ RUN cp ./origin/scripts/* ./server/
 ######################################
 # BEGIN FINAL PACKAGE
 RUN echo Building the Starfall Client
-RUN zip -f ./target/starfall-client.zip ./client
+RUN zip -f ./target/starfall-client-${VERSION}.zip ./client
 RUN echo Building the Starfall Server
-RUN zip -f ./target/starfall-server.zip ./server
+RUN zip -f ./target/starfall-server-${VERSION}.zip ./server
