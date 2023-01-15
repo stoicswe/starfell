@@ -8,6 +8,7 @@ RUN mkdir /src
 WORKDIR /src
 # Make origin folder
 RUN mkdir ./origin
+RUN mkdir ./target
 # Make client folder
 RUN mkdir ./client
 RUN mkdir ./client/config
@@ -34,3 +35,8 @@ RUN cp ./origin/config/core/* ./server/config/
 RUN cp ./origin/config/server/* ./server/config/
 RUN cp ./origin/scripts/* ./server/
 ######################################
+# BEGIN FINAL PACKAGE
+RUN echo Building the Starfall Client
+RUN zip -f ./target/starfall-client.zip ./client
+RUN echo Building the Starfall Server
+RUN zip -f ./target/starfall-server.zip ./server
