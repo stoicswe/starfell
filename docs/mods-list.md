@@ -54,6 +54,7 @@ Type | Name | Version | Link |
 | | Tip the Scales | `3.0.0.15` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tipthescales)
 **UI** | | |
 | | Just Enough Items (JEI) | `7.7.1.153` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/jei)
+| | More Overlays Updated | `1.18.19` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)
 
 
 ## Server Addons

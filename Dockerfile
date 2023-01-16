@@ -25,20 +25,23 @@ COPY . /src/origin/
 # BEGIN TO COPY CLIENT FILES TO DIR
 RUN echo Building client
 RUN cp ./origin/mods/core/* ./client/mods/
-RUN cp ./origin/mods/client-addons ./client/mods/
-RUN cp ./origin/config/core/* ./client/config/
-RUN cp ./origin/config/client/* ./client/config/
+RUN cp ./origin/mods/client-addons/* ./client/mods/
+#RUN cp ./origin/config/core/* ./client/config/
+#RUN cp ./origin/config/client/* ./client/config/
 ######################################
 # BEGIN TO COPY SERVER FILES TO DIR
 RUN echo Building server
 RUN cp ./origin/mods/core/* ./server/mods/
 RUN cp ./origin/mods/server-addons/* ./server/mods/
-RUN cp ./origin/config/core/* ./server/config/
-RUN cp ./origin/config/server/* ./server/config/
+#RUN cp ./origin/config/core/* ./server/config/
+#RUN cp ./origin/config/server/* ./server/config/
 RUN cp ./origin/scripts/* ./server/
 ######################################
 # BEGIN FINAL PACKAGE
 RUN echo Building the Starfall Client
-RUN zip -f ./target/starfall-client-${VERSION}.zip ./client
+RUN cd /src/client
+RUN tar -czvf ./target/starfall-client-${VERSION}.tar.gz ./*
 RUN echo Building the Starfall Server
-RUN zip -f ./target/starfall-server-${VERSION}.zip ./server
+RUN cd /src/server
+RUN tar -czvf ./target/starfall-server-${VERSION}.tar.gz ./*
+# DONE
