@@ -39,9 +39,7 @@ RUN cp ./origin/scripts/* ./server/
 ######################################
 # BEGIN FINAL PACKAGE
 RUN echo Building the Starfall Client
-RUN cd /src/client
-RUN tar -czvf ./target/starfall-client-${VERSION}.tar.gz ./*
+RUN tar -czvf ./target/starfall-client-${VERSION}.tar.gz client
 RUN echo Building the Starfall Server
-RUN cd /src/server
-RUN tar -czvf ./target/starfall-server-${VERSION}.tar.gz ./*
+RUN tar -czvf ./target/starfall-server-${VERSION}.tar.gz server
 # DONE

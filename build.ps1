@@ -8,7 +8,7 @@ docker run --name extract-starfall-build starfall-buildr
 # Make local dir
 $curLoc =  Get-Location
 if(Test-Path "$curLoc/target") {
-    Remove-Item "$curLoc/target" -Recurse -Force -Confirm
+    Remove-Item "$curLoc/target" -Recurse -Force
 }
 New-Item -Path "$curLoc/target" -ItemType Directory
 # extract the built artifacts
