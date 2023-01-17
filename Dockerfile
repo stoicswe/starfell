@@ -15,6 +15,7 @@ RUN mkdir ./target
 RUN mkdir ./client
 RUN mkdir ./client/config
 RUN mkdir ./client/mods
+RUN mkdir ./client/resourcepacks
 # Make server folder
 RUN mkdir ./server
 RUN mkdir ./server/config
@@ -28,6 +29,7 @@ RUN cp ./origin/mods/core/* ./client/mods/
 RUN cp ./origin/mods/client-addons/* ./client/mods/
 #RUN cp ./origin/config/core/* ./client/config/
 #RUN cp ./origin/config/client/* ./client/config/
+RUN cp ./origin/resourcepacks/* ./client/resourcepacks/
 ######################################
 # BEGIN TO COPY SERVER FILES TO DIR
 RUN echo Building server

@@ -22,6 +22,7 @@ Type | Name | Version | Link |
 | | More Dragon Eggs | `2.5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs)
 | | Natures Aura | `34.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
 | | Tough as Nails | `4.1.0.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
+**Decoration** | | |
 **Environment** | | |
 | | Better End | `0.9.8.5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/betterend)
 | | Better Foliage | `2.7.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/better-foliage)
@@ -40,7 +41,18 @@ Type | Name | Version | Link |
 | | Sky Villages | `1.0.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sky-villages-forge)
 | | Serene Seasons | `4.0.1.127` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 | | Terraforged | `0.2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/terraforged)
+| | The Undergarden | `0.5.5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
+| | Towers of the Wild | `2.0.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild)
+| | Twilight Forest | `4.0.870` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+| | Valhelsia Structures | `0.1.6` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures)
 | | Voyage | `1.0.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/voyage)
+| | Yungs Better Bridges | `1.0.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges)
+| | Yungs Better Caves | `1.1.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)
+| | Yungs Better Dungeons | `1.2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
+| | Yungs Better Extras | `1.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/yungs-extras)
+| | Yungs Better Mineshafts | `2.0.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
+| | Yungs Better Portals | `0.3.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-portals)
+| | Yungs Better Strongholds | `1.2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
 **Libraries** | | |
 | | Citadel | `1.8.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/citadel)
 | | CraftTweaker | `7.1.2516` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
@@ -50,6 +62,8 @@ Type | Name | Version | Link |
 | | JEITweaker | `1.1.0.49` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)
 | | Kotlin for Forge | `1.17.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)
 | | Patchouli | `53.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/patchouli)
+| | Velhelsia Core | `16.0.15` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core)
+| | Yungs API | `1.16.4-Forge13` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
 **Quality of Life** | | |
 | | Attribute Fix | `10.1.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 | | Elytra Slot | `4.0.2.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/elytra-slot)
