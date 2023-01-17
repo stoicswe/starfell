@@ -22,6 +22,7 @@ Type | Name | Version | Link |
 | | More Dragon Eggs | `2.5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs)
 | | Natures Aura | `34.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
 | | Tough as Nails | `4.1.0.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
+| | When Dungeons Arise | `2.1.49` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)
 **Decoration** | | |
 **Environment** | | |
 | | Better End | `1.6.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/betterend)
