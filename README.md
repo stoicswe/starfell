@@ -15,6 +15,15 @@ Starfell is an on-going collection of mods that are developed by third party dev
 ## Prerequisits
 This mod pack requires the Java variant of Minecraft `1.16`. If you are using the Bedrock or Windows 10 variant of Minecraft, this pack will not work. Installation of this modpack will also require Java 17.
 
+## System Requirements
+This modpack is a more heavy pack, with many mods directly aimed at new structure, terrain,a biome, and chunk generation. It is likely that the world generation will feel slow on machines with fewer cores in their processors. Graphics should be the same requirements as MC1.18.x+ (on Fantastic graphics settings). There is no inclusion of a graphics performance improvement mod and is up to the end user's choice in mod to include.
+---- | Minimal | Recommended |
+---- | ------- | ----------- | 
+CPU | 4 Cores, (Ex. `Intel® Core i5-4590`) | 6 Cores+, (Ex. `AMD Ryzen™ 5 5500`)
+GPU | 4GB of VRAM, (Ex. `Nvidia GeForce GTX 1070`) |  6GB+ of VRAM, (Ex. `Nvidia GeForce GTX 1060XC`)
+RAM | 6GB of RAM | 16GB of RAM
+Storage | 2.5GB | 5GB+
+
 ## Installation
 The instructions for installation have been split into two primary documents: one to cover the client and one to cover the server side of installation. The client side installation can be found in the [client installation guide](./docs/client-installation.md). The server install instructions can be found [server installation guide](./docs/server-installation.md).
 
