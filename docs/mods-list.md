@@ -23,6 +23,8 @@ Type | Name | Version | Link |
 | | Natures Aura | `34.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
 | | Tough as Nails | `4.1.0.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
 | | When Dungeons Arise | `2.1.49` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)
+| | Vampirism | `1.9.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire)
+| | Werewolves | `1.1.0.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/werewolves-become-a-beast)
 **Decoration** | | |
 **Environment** | | |
 | | Better End | `1.6.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/betterend)
@@ -34,6 +36,7 @@ Type | Name | Version | Link |
 | | Dynamic Trees - Natures Aura | `1.2.6` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-natures-aura/)
 | | Dynamic Trees - Quark Plugin | `2.1.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark)
 | | Dynamic Trees - TerraForged | `1.0.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-terraforged)
+| | Dynamic Trees - Vampirism | `` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-vampirism)
 | | Dynamic Trees - Voyage | `0.0.0.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-voyage)
 | | Mowzies Mobs | `1.5.27` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
 | | Mystical World | `0.3.6.27` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mystical-world)
