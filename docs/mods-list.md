@@ -10,18 +10,36 @@ Type | Name | Version | Link |
 **Content** | | |
 | | Beyond Earth | `5.5d` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/beyond-earth)
 | | Cosmetic Armor Reworked | `1.16.5-v5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
+| | Natures Aura | `34.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
+| | Tough as Nails | `4.1.0.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
 **Environment** | | |
+| | Better Foliage | `2.7.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/better-foliage)
+| | Biomes O Plenty | `13.1.0.488` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+| | Dynamic Surroundings | `4.0.5.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
+| | Dynamic Trees | `0.10.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
+| | Dynamic Trees+ | `0.1.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamictreesplus)
+| | Dynamic Trees - BOP Plugin | `2.0.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dtbop)
+| | Dynamic Trees - Natures Aura | `1.2.6` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-natures-aura/)
+| | Dynamic Trees - Quark Plugin | `2.1.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark)
+| | Dynamic Trees - TerraForged | `1.0.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-terraforged)
+| | Dynamic Trees - Voyage | `0.0.0.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-voyage)
 | | Mowzies Mobs | `1.5.27` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
 | | Mystical World | `0.3.6.27` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mystical-world)
 | | Oh The Biomes You'll Go | `1.3.6` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)
+| | Serene Seasons | `4.0.1.127` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 | | Terraforged | `0.2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/terraforged)
+| | Voyage | `1.0.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/voyage)
 **Libraries** | | |
+| | CraftTweaker | `7.1.2516` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
+| | JEITweaker | `1.1.0.49` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)
+| | Kotlin for Foliage | `1.17.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)
 | | Patchouli | `53.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 **Quality of Life** | | |
 | | Attribute Fix | `10.1.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/attributefix)
+| | Fast Leaf Decay | `v25.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 | | Lootr | `1.3.6` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/lootr)
-| | Morpheus | `4.2.70` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 | | Passthrough Signs | `2.3.7` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/passthrough-signs)
+| | Quark | `r2.4-321` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/quark)
 | | Scaffolding Behavior | `1.3.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/scaffolding-behavior)
 | | Swing Through Grass | `1.5.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)
 **Performance** | | |
@@ -41,7 +59,12 @@ Type | Name | Version | Link |
 These are addons that are really only specific to the clients of the game and are not included into the server variant of the modpack in order to keep bloat to a minimum.
 Type | Name | Version | Link |
 ---- | ---- | ------- | ---- |
+**Environment** | | |
+| | Ambient Sounds | `3.1.11` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
+**Libraries** | | |
+| | Creative Core | `2.2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/creativecore)
 **Performance** | | |
+| | Better Biome Blend | `1.2.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)
 | | Entity Culling | `1.5.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 | | Magnesium | `1.5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sodium-reforged) 
 | | Rubidium | `0.2.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/rubidium)
@@ -49,6 +72,7 @@ Type | Name | Version | Link |
 | | Spawner Bug Fix | `1.0.0.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/spawner-fix)
 **Quality of Life** | | |
 | | ReAuth | `4.0.6` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/reauth)
+| | Morpheus | `4.2.70` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 | | Shutup Experimental Settings | `1.0.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings)
 | | Sound Device Options | `1.4.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/more-sound-config)
 | | Tip the Scales | `3.0.0.15` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tipthescales)
@@ -71,5 +95,4 @@ Type | Name | Version | Link |
 | | AI Improvements | `0.4.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
 | | Not Enough Crashes | `4.1.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
 **Quality of Life** | | |
-| | Fast Leaf Decay | `` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 | | Nether Portal Fix | `7.2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
