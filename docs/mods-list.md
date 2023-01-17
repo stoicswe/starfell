@@ -7,12 +7,23 @@ Type | Name | Version | Link |
 ---- | ---- | ------- | ---- |
 **BASE** | | |
 | | Forge | `1.16.5-36.2.39` | [Forge Official](https://files.minecraftforge.net/net/minecraftforge/forge/)
+**AI** | | |
+| | Goblin Traders | `1.7.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/goblin-traders)
+| | Kobolds | `2.0.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/kobolds)
+| | Spiders 2.0 | `1.0.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/spiders-2-0)
 **Content** | | |
+| | Antique Atlas | `6.2.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/antique-atlas)
 | | Beyond Earth | `5.5d` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/beyond-earth)
+| | Bountiful | `3.3.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/bountiful)
+| | Brass Amber Battle Towers | `1.6.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/brassamberbattletowers)
 | | Cosmetic Armor Reworked | `1.16.5-v5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
+| | Dungeon Crawl | `2.3.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
+| | Ice and Fire | `2.1.11` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
+| | More Dragon Eggs | `2.5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs)
 | | Natures Aura | `34.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
 | | Tough as Nails | `4.1.0.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
 **Environment** | | |
+| | Better End | `0.9.8.5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/betterend)
 | | Better Foliage | `2.7.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/better-foliage)
 | | Biomes O Plenty | `13.1.0.488` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 | | Dynamic Surroundings | `4.0.5.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
@@ -26,22 +37,30 @@ Type | Name | Version | Link |
 | | Mowzies Mobs | `1.5.27` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
 | | Mystical World | `0.3.6.27` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mystical-world)
 | | Oh The Biomes You'll Go | `1.3.6` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)
+| | Sky Villages | `1.0.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sky-villages-forge)
 | | Serene Seasons | `4.0.1.127` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 | | Terraforged | `0.2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/terraforged)
 | | Voyage | `1.0.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/voyage)
 **Libraries** | | |
+| | Citadel | `1.8.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/citadel)
 | | CraftTweaker | `7.1.2516` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
+| | Celsius API | `2.1.3.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/caelus)
+| | Curious API | `4.0.8.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/curios)
+| | Gecko | `3.0.106` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/geckolib)
 | | JEITweaker | `1.1.0.49` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)
-| | Kotlin for Foliage | `1.17.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)
+| | Kotlin for Forge | `1.17.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)
 | | Patchouli | `53.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 **Quality of Life** | | |
 | | Attribute Fix | `10.1.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/attributefix)
+| | Elytra Slot | `4.0.2.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/elytra-slot)
 | | Fast Leaf Decay | `v25.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 | | Lootr | `1.3.6` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/lootr)
 | | Passthrough Signs | `2.3.7` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/passthrough-signs)
 | | Quark | `r2.4-321` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/quark)
+| | Save Your Pets | `1.0.0.7` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/save-your-pets)
 | | Scaffolding Behavior | `1.3.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/scaffolding-behavior)
 | | Swing Through Grass | `1.5.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)
+| | Tactical Fishing | `1.1.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tactical-fishing)
 **Performance** | | |
 | | Clumps | `6.0.0.27` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/clumps)
 | | Fast Furnace | `4.5.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
@@ -61,6 +80,7 @@ Type | Name | Version | Link |
 ---- | ---- | ------- | ---- |
 **Environment** | | |
 | | Ambient Sounds | `3.1.11` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
+| | Total Darkness | `1.3-1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/total-darkness)
 **Libraries** | | |
 | | Creative Core | `2.2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/creativecore)
 **Performance** | | |
