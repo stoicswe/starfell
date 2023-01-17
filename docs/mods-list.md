@@ -24,8 +24,7 @@ Type | Name | Version | Link |
 | | Tough as Nails | `4.1.0.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
 **Decoration** | | |
 **Environment** | | |
-| | Better End | `0.9.8.5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/betterend)
-| | Better Foliage | `2.7.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/better-foliage)
+| | Better End | `1.6.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/betterend)
 | | Biomes O Plenty | `13.1.0.488` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 | | Dynamic Surroundings | `4.0.5.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
 | | Dynamic Trees | `0.10.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
@@ -54,6 +53,10 @@ Type | Name | Version | Link |
 | | Yungs Better Portals | `0.3.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-portals)
 | | Yungs Better Strongholds | `1.2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
 **Libraries** | | |
+| | Attribute Fix | `10.1.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/attributefix)
+| | Architectury API | `1.32.66` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
+| | Autoreglib | `1.6-49` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
+| | Cloth Config API | `4.16.91` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 | | Citadel | `1.8.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/citadel)
 | | CraftTweaker | `7.1.2516` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
 | | Celsius API | `2.1.3.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/caelus)
@@ -65,11 +68,11 @@ Type | Name | Version | Link |
 | | Velhelsia Core | `16.0.15` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core)
 | | Yungs API | `1.16.4-Forge13` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
 **Quality of Life** | | |
-| | Attribute Fix | `10.1.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 | | Elytra Slot | `4.0.2.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/elytra-slot)
 | | Fast Leaf Decay | `v25.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 | | Lootr | `1.3.6` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/lootr)
 | | Passthrough Signs | `2.3.7` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/passthrough-signs)
+| | Placebo | `4.7.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/placebo)
 | | Quark | `r2.4-321` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/quark)
 | | Save Your Pets | `1.0.0.7` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/save-your-pets)
 | | Scaffolding Behavior | `1.3.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/scaffolding-behavior)
@@ -100,9 +103,6 @@ Type | Name | Version | Link |
 **Performance** | | |
 | | Better Biome Blend | `1.2.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)
 | | Entity Culling | `1.5.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/entityculling)
-| | Magnesium | `1.5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sodium-reforged) 
-| | Rubidium | `0.2.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/rubidium)
-| | Magnesium/Rubidium Extras | `1.3.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)
 | | Spawner Bug Fix | `1.0.0.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/spawner-fix)
 **Quality of Life** | | |
 | | ReAuth | `4.0.6` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/reauth)
