@@ -31,7 +31,7 @@ The instructions for installation have been split into two primary documents: on
 To see a comprehensive list of the mods included in this pack, please see the [mods list](./docs/mods-list.md) document.
 
 ## License
-This modpack (scripts, configurations, profiles) is licensed under the MIT - see the [LICENSE.md](LICENSE.md) file for details.
+This modpack (only applies to: scripts, configurations, profiles) is licensed under the MIT - see the [LICENSE.md](LICENSE.md) file for details. Mods are licensed under their respective licenses.
 
 ## Contributors
 _Original Developer_ [Nathaniel Knudsen](https://github.com/stoicswe)
