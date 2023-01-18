@@ -27,6 +27,10 @@ Type | Name | Version | Link |
 | | Immersive Engineering | `5.1.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 | | Immersive Petroleum | `3.4.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
 | | Immersive Posts | `4.3.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/immersiveposts)
+| | Mekanism | `10.1.2.457` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mekanism)
+| | Mekanism Additions | `10.1.2.457` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)
+| | Mekanism Generators | `10.1.2.457` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
+| | Mekanism Tools | `10.1.2.457` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
 | | More Dragon Eggs | `2.5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs)
 | | Natures Aura | `34.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
 | | Tough as Nails | `4.1.0.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
@@ -34,6 +38,7 @@ Type | Name | Version | Link |
 | | Vampirism | `1.9.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire)
 | | Werewolves | `1.1.0.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/werewolves-become-a-beast)
 **Decoration** | | |
+| | Chisel | `2.0.1-alpha.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chisel)
 **Environment** | | |
 | | Better End | `1.6.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/betterend)
 | | Biomes O Plenty | `13.1.0.488` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
@@ -68,10 +73,11 @@ Type | Name | Version | Link |
 | | Attribute Fix | `10.1.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 | | Architectury API | `1.32.66` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
 | | Autoreglib | `1.6-49` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
+| | Celsius API | `2.1.3.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/caelus)
 | | Cloth Config API | `4.16.91` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 | | Citadel | `1.8.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/citadel)
+| | Connected Textures | `1.1.2.6` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ctm)
 | | CraftTweaker | `7.1.2516` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
-| | Celsius API | `2.1.3.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/caelus)
 | | Curious API | `4.0.8.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/curios)
 | | Flywheel | `0.2.5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/flywheel)
 | | Gecko | `3.0.106` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/geckolib)
@@ -82,6 +88,7 @@ Type | Name | Version | Link |
 | | Velhelsia Core | `16.0.15` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core)
 | | Yungs API | `1.16.4-Forge13` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
 **Quality of Life** | | |
+| | Corail Tombstone | `6.8.7` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
 | | Elytra Slot | `4.0.2.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/elytra-slot)
 | | Fast Leaf Decay | `v25.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 | | Lootr | `1.3.6` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/lootr)
@@ -90,6 +97,7 @@ Type | Name | Version | Link |
 | | Quark | `r2.4-321` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/quark)
 | | Save Your Pets | `1.0.0.7` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/save-your-pets)
 | | Scaffolding Behavior | `1.3.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/scaffolding-behavior)
+| | Sophisticated Backpacks | `3.15.20.755` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
 | | Swing Through Grass | `1.5.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)
 | | Tactical Fishing | `1.1.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tactical-fishing)
 **Performance** | | |
