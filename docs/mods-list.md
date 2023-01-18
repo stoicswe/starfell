@@ -33,6 +33,13 @@ Type | Name | Version | Link |
 | | Mekanism Tools | `10.1.2.457` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
 | | More Dragon Eggs | `2.5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs)
 | | Natures Aura | `34.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
+| | Pipez | `1.2.15` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/pipez)
+| | Storage Drawers | `8.5.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
+| | Thermal Expansion | `1.5.2.16` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
+| | Thermal Expansion Cultivation | `1.5.0.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
+| | Thermal Expansion Foundation | `1.5.2.30` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)
+| | Thermal Expansion Innovation | `1.5.0.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation)
+| | Thermal Expansion Locomation | `1.5.0.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/thermal-locomotion)
 | | Tough as Nails | `4.1.0.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
 | | When Dungeons Arise | `2.1.49` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)
 | | Vampirism | `1.9.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire)
@@ -124,6 +131,7 @@ Type | Name | Version | Link |
 | | Creative Core | `2.2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/creativecore)
 **Performance** | | |
 | | Better Biome Blend | `1.2.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)
+| | Drawer FPS | `2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/drawerfps)
 | | Entity Culling | `1.5.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 | | Spawner Bug Fix | `1.0.0.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/spawner-fix)
 **Quality of Life** | | |
