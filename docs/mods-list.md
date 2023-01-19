@@ -183,6 +183,7 @@ Type | Name | Version | Link |
 | | Discord Integration | `2.4.7` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dcintegration)
 **Performance** | | |
 | | AI Improvements | `0.4.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
+| | Chunk Pregernerator | `3.5.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator)
 | | Not Enough Crashes | `4.1.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
 **Quality of Life** | | |
 | | Nether Portal Fix | `7.2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
