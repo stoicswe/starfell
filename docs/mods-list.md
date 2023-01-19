@@ -49,7 +49,7 @@ Type | Name | Version | Link |
 | | Tough as Nails | `4.1.0.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
 | | When Dungeons Arise | `2.1.49` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)
 | | Vampirism | `1.9.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire)
-| | Werewolves | `1.1.0.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/werewolves-become-a-beast)
+| | Vampirism Integrations | `1.6.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/vampirism-integrations)
 **Decoration** | | |
 | | Cooking for Blockheads | `9.3.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
 | | Decorative Blocks | `1.7.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks/)
