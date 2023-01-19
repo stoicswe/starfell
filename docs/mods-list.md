@@ -139,7 +139,6 @@ Type | Name | Version | Link |
 | | Ferrite Core | `2.1.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 | | Performant | `5-3.99m` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/performant)
 | | Random Patches | `2.4.4` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)
-| | RoadRunner | `1.4.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/roadrunner)
 **UI** | | |
 | | Blur | `1.10.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/blur)
 | | Toughness Bar | `6.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/armor-toughness-bar)
