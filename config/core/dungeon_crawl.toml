@@ -33,7 +33,7 @@
 	# Halving it will quadruple the amount of dungeons, doubling it would have the opposite effect.
 	#
 	#Range: 9 ~ 8192
-	spacing = 24
+	spacing = 48
 	#----------------------------------------------------------------------------------------------------+
 	# The minimum distance between two adjacent dungeons in chunks. Has to be lower than the spacing!
 	# The closer the separation is to the spacing, the more grid-aligned and predictable the dungeon placement will be.
@@ -41,7 +41,7 @@
 	# !! Has to be lower than the spacing! !!
 	#
 	#Range: 8 ~ 8191
-	separation = 12
+	separation = 24
 
 	["Dungeon Placement".Biomes]
 		#----------------------------------------------------------------------------------------------------+
