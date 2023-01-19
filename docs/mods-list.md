@@ -27,6 +27,7 @@ Type | Name | Version | Link |
 | | Immersive Engineering | `5.1.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 | | Immersive Petroleum | `3.4.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
 | | Immersive Posts | `4.3.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/immersiveposts)
+| | Mana and Artifice | `1.5.1.7` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice)
 | | Mekanism | `10.1.2.457` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mekanism)
 | | Mekanism Additions | `10.1.2.457` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)
 | | Mekanism Generators | `10.1.2.457` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
@@ -36,6 +37,9 @@ Type | Name | Version | Link |
 | | Pams Harvestcraft Crops | `1.0.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
 | | Pams Harvestcraft - Food Core | `1.0.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
 | | Pipez | `1.2.15` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/pipez)
+| | Refined Storage | `1.9.18` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
+| | Refined Storage Addons | `0.7.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
+| | Small Ships | `1.10.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/small-ships)
 | | Storage Drawers | `8.5.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 | | Thermal Expansion | `1.5.2.16` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
 | | Thermal Expansion Cultivation | `1.5.0.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
@@ -110,12 +114,17 @@ Type | Name | Version | Link |
 | | Velhelsia Core | `16.0.15` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core)
 | | Yungs API | `1.16.4-Forge13` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
 **Quality of Life** | | |
+| | Bad Whither No Cookie | `3.10.16` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
+| | Better Diving | ``.3.5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/better-diving)
+| | Catalogue | `1.6.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/catalogue)
 | | Corail Tombstone | `6.8.7` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
 | | Elytra Slot | `4.0.2.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/elytra-slot)
 | | Fast Leaf Decay | `v25.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 | | Lootr | `1.3.6` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/lootr)
+| | Mod Name Tooltip | `1.15.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip)
 | | Passthrough Signs | `2.3.7` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/passthrough-signs)
 | | Placebo | `4.7.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/placebo)
+| | Polymorph | `0.4.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/polymorph)
 | | Quark | `r2.4-321` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/quark)
 | | Save Your Pets | `1.0.0.7` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/save-your-pets)
 | | Scaffolding Behavior | `1.3.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/scaffolding-behavior)
@@ -130,7 +139,9 @@ Type | Name | Version | Link |
 | | Ferrite Core | `2.1.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 | | Performant | `5-3.99m` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/performant)
 | | Random Patches | `2.4.4` | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)
+| | RoadRunner | `1.4.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/roadrunner)
 **UI** | | |
+| | Blur | `1.10.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/blur)
 | | Toughness Bar | `6.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/armor-toughness-bar)
 | | Trash Slot | `12.2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/trashslot)
 | | Ping | `1.6.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ping)
@@ -158,7 +169,7 @@ Type | Name | Version | Link |
 | | Tip the Scales | `3.0.0.15` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tipthescales)
 **UI** | | |
 | | Just Enough Items (JEI) | `7.7.1.153` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/jei)
-| | More Overlays Updated | `1.18.19` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)
+| | Light Overlay | `1.18.19` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
 
 
 ## Server Addons
