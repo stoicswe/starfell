@@ -188,5 +188,4 @@
 		biome_categories = ["plains", "forest", "extreme_hills", "taiga", "desert", "mesa", "savanna", "jungle", "icy", "swamp", "mushroom"]
 		#Spawn Chance [default: 0.7]
 		#Range: 0.0 ~ 1.0
-		spawn_chance = 0.7
-
+		spawn_chance = 0.6

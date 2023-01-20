@@ -39,6 +39,7 @@ Type | Name | Version | Link |
 | | Pipez | `1.2.15` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/pipez)
 | | Refined Storage | `1.9.18` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/refined-storage)
 | | Refined Storage Addons | `0.7.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
+| | Refined Storage Extra Storage | `1.6.1` | [Cursefoge](https://www.curseforge.com/minecraft/mc-mods/extrastorage)
 | | Small Ships | `1.10.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/small-ships)
 | | Storage Drawers | `8.5.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 | | Thermal Expansion | `1.5.2.16` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)

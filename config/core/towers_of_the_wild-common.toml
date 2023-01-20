@@ -10,11 +10,10 @@
 	allModBiomesBlackList = ["midnight", "the_bumblezone"]
 	#How rarely the towers will spawn (low: common, high: rare). Default: 20
 	#Range: 3 ~ 200
-	towerRarity = 100
+	towerRarity = 45
 	#How rarely the derelict towers will spawn (low: common, high: rare). Default: 72
 	#Range: 3 ~ 200
-	derelictTowerRarity = 150
+	derelictTowerRarity = 72
 	#How rarely the ocean towers will spawn (low: common, high: rare). Default: 32
 	#Range: 3 ~ 200
-	oceanTowerRarity = 60
-
+	oceanTowerRarity = 32
