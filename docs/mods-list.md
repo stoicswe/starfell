@@ -115,6 +115,7 @@ Type | Name | Version | Link |
 | | Kotlin for Forge | `1.17.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)
 | | Observer Lib | `1.5.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/observerlib)
 | | Patchouli | `53.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/patchouli)
+| | Super Martijn Core Lib | `1.1.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
 | | Velhelsia Core | `16.0.15` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core)
 | | Yungs API | `1.16.4-Forge13` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
 **Quality of Life** | | |
@@ -135,6 +136,7 @@ Type | Name | Version | Link |
 | | Sophisticated Backpacks | `3.15.20.755` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
 | | Swing Through Grass | `1.5.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)
 | | Tactical Fishing | `1.1.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tactical-fishing)
+| | Trash Cans | `1.0.16` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
 | | Waystones | `7.6.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/waystones)
 **Performance** | | |
 | | Clumps | `6.0.0.27` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/clumps)

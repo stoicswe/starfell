@@ -21,8 +21,10 @@ This modpack is a more heavy pack, with many mods directly aimed at new structur
 ---- | ------- | ----------- | 
 CPU | 4 Cores, (Ex. `Intel® Core i5-4590`) | 6 Cores+, (Ex. `AMD Ryzen™ 5 5500`)
 GPU | 4GB of VRAM, (Ex. `Nvidia GeForce GTX 1070`) |  6GB+ of VRAM, (Ex. `Nvidia GeForce GTX 1060XC`)
-RAM | 6GB of RAM | 16GB of RAM
-Storage | 2.5GB | 5GB+
+RAM | 8GB of System RAM | 16GB of System RAM
+Storage (SSD Recommended) | 2.5GB | 5GB+
+
+**Note: loading times will take awhile due to the nature of minecraft/forge when it comes to minecraft modding and the general size of this modpack.**
 
 ## Installation
 The instructions for installation have been split into two primary documents: one to cover the client and one to cover the server side of installation. The client side installation can be found in the [client installation guide](./docs/client-installation.md). The server install instructions can be found [server installation guide](./docs/server-installation.md).
