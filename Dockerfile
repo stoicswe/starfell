@@ -41,6 +41,7 @@ RUN cp ./origin/mods/server-addons/* ./server/mods/
 RUN cp -r ./origin/config/core/* ./server/config/
 RUN cp -r ./origin/config/server/* ./server/config/
 RUN cp -r ./origin/config/scripts/* ./server/scripts/
+RUN cp -r ./origin/libs/* ./server/
 RUN cp ./origin/scripts/* ./server/
 ######################################
 # BEGIN FINAL PACKAGE

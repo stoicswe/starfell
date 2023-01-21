@@ -1,1 +1,1 @@
-java -Xms4048M -Xmx12048M -jar .\server.jar --nogui
+java -Xms4048M -Xmx12048M -jar .\forge-1.16.5-36.2.39.jar --nogui
