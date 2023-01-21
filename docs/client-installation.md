@@ -9,6 +9,8 @@ Minecraft 1.16 (LATEST)
 ```
 
 ### _Java_
+The java installation steps are virtually equivalent between all systems.
+
 #### **Setting up Sumeru**
 The recommended Java version to install is IBM Sumeru from IBM's developer website, but in theory any flavor of Java 17 should work with this modpack (though only Sumeru will be tested with this modpack and modded server). To install the IBM Sumeru Runtime, navigate to [this page](https://developer.ibm.com/languages/java/semeru-runtimes/), download the latest `Java 17.x.x.x LTS` version applicable to your OS and run the installer, following the default settings during the installation process. 
 
@@ -59,3 +61,25 @@ Installing an earlier version of minecraft is a pretty trivial process, which ca
 ## Modpack Installation
 Once the forge profile is successfully installed and configured, installation of the modpack is reletively simple, involving downloading the latest release `.tar.gz` file from the [releases page](https://github.com/stoicswe/starfell/releases) and un-archiving the contents of the tar file into a designated location for the Starfell mionecraft instance. The following steps will desribe the process.
 
+### Prerequisits
+_Note: In order to extract the modpack from the tar archive on Windows, you will need to installe the 7zip application, which can be found [here](https://www.7-zip.org/)._
+
+### Steps for Installting the Modpack
+
+1. Open the `.tar.gz` file (if on Windows, there will be a `.tar` file inside, open that as well in 7zip), and extract the contents of the client folder into a new folder titled "Starfell" and place that folder where you want the game to be installed to. This folder will serve as your game isntance folder.
+
+2. If there was not a previously created installation titled: "_Starfall 1.16_", take the time to create one (see [this step for help](./client-installation.md#minecraft) for steps on this).
+
+3. Navigate to the "**Installations**" tab in the minecraft launcher, and edit the "_Starfall 1.16_" installation.
+
+![modpack-install-step3](./supplemental/modpack-installation/modpack-install-step3.png)
+
+4. On the installation editing page, change the version of the installation to `release 1.16.5-forge-36.2.39`. This version is what loads the modpack properly for gameplay.
+
+![modpack-install-step4](./supplemental/modpack-installation/modpack-install-step4.png)
+
+5. Next, the installation needs to be pointed at the "_Starfall_" instance folder that was made earlier. Just click on the "**Browse**" button to navigate and select your "_Starfell_" folder.
+
+![modpack-install-step5](./supplemental/modpack-installation/modpack-install-step5.png)
+
+6. Once that is all set, click on the save button to save changes. The installation is all setup and ready to go to play the modpack!
