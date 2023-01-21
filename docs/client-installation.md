@@ -42,7 +42,7 @@ Installing an earlier version of minecraft is a pretty trivial process, which ca
 
 ![step3-screenshot](./supplemental/vanilla-116-install/mc-116-step3.png)
 
-4. One the name and version are entered, click on the down arrow that is labeled "**MORE OPTIONS**" (this is in the same area as the "**LESS OPTIONS**" as seen in the screenshot below). Adjust the value that is "_-Xnx2G_" to be "_-Xmx6G_". NOTE: If your computer has only 8GB of RAM, make this say "_-Xmx4G_" instead.
+4. One the name and version are entered, click on the down arrow that is labeled "**MORE OPTIONS**" (this is in the same area as the "**LESS OPTIONS**" as seen in the screenshot below). Adjust the value that is "_-Xnx2G_" to be "_-Xmx6G_". NOTE: If your computer has only 8GB of RAM, make this say "_-Xmx4G_" instead. If you can spare more memory, it is advised to use "_-Xmx8G" for systems with 16GB or more of system memory.
 
 ![step4-screenshot](./supplemental/vanilla-116-install/mc-116-step4.png)
 
@@ -57,4 +57,5 @@ Installing an earlier version of minecraft is a pretty trivial process, which ca
 7. Once you've selected the new installation, click the play button to install the main Minecraft 1.16 files. When the game launches, close it and then proceed to install the modpack!
 
 ## Modpack Installation
-TBD.
+Once the forge profile is successfully installed and configured, installation of the modpack is reletively simple, involving downloading the latest release `.tar.gz` file from the [releases page](https://github.com/stoicswe/starfell/releases) and un-archiving the contents of the tar file into a designated location for the Starfell mionecraft instance. The following steps will desribe the process.
+
