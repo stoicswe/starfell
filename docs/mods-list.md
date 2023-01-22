@@ -163,6 +163,7 @@ Type | Name | Version | Link |
 | | Creative Core | `2.2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/creativecore)
 **Performance** | | |
 | | Better Biome Blend | `1.2.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)
+| | Better Foliage | `2.7.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/better-foliage)
 | | Drawer FPS | `2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/drawerfps)
 | | Entity Culling | `1.5.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 | | Spawner Bug Fix | `1.0.0.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/spawner-fix)
