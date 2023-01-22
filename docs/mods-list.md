@@ -68,7 +68,6 @@ Type | Name | Version | Link |
 | | BetterNether Reforged | `1.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/betternether-reforged)
 | | Biomes O Plenty | `13.1.0.488` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 | | Bygone Nether | `1.2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/bygone-nether)
-| | Dynamic Surroundings | `4.0.5.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
 | | Dynamic Trees | `0.10.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
 | | Dynamic Trees+ | `0.1.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamictreesplus)
 | | Dynamic Trees - BOP Plugin | `2.0.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dtbop)
@@ -155,6 +154,7 @@ Type | Name | Version | Link |
 ---- | ---- | ------- | ---- |
 **Environment** | | |
 | | Ambient Sounds | `3.1.11` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
+| | Dynamic Surroundings | `4.0.5.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
 | | Total Darkness | `1.3-1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/total-darkness)
 **Libraries** | | |
 | | Creative Core | `2.2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/creativecore)
