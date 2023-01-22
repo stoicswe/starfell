@@ -49,8 +49,6 @@ Type | Name | Version | Link |
 | | Thermal Expansion Locomation | `1.5.0.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/thermal-locomotion)
 | | Tough as Nails | `4.1.0.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
 | | When Dungeons Arise | `2.1.49` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)
-| | Vampirism | `1.9.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire)
-| | Vampirism Integrations | `1.6.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/vampirism-integrations)
 **Decoration** | | |
 | | Cooking for Blockheads | `9.3.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
 | | Decorative Blocks | `1.7.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks/)
@@ -77,7 +75,6 @@ Type | Name | Version | Link |
 | | Dynamic Trees - Natures Aura | `1.2.6` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-natures-aura/)
 | | Dynamic Trees - Quark Plugin | `2.1.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark)
 | | Dynamic Trees - TerraForged | `1.0.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-terraforged)
-| | Dynamic Trees - Vampirism | `1.1.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-vampirism)
 | | Dynamic Trees - Voyage | `0.0.0.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-voyage)
 | | Infernal Expansion `2.5.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
 | | Mowzies Mobs | `1.5.27` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
