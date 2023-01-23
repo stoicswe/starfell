@@ -132,13 +132,13 @@
 	[Dragons.Attributes]
 		#Damage dealt from a successful lightning breath attack. Attack Damage is scaled to by age, so a stage 5 dragon will deal 5x as much as this number
 		#Range: 0.0 ~ 10000.0
-		"Dragon Attack Damage(Lightning breath)" = 3.5
+		"Dragon Attack Damage(Lightning breath)" = 85
 		#Dragon Flute Distance - how many chunks away is the dragon flute effective?
 		#Range: 0 ~ 10000
 		"Dragon Flute Distance" = 4
 		#Max dragon health. Health is scaled to this
 		#Range: 1.0 ~ 100000.0
-		"Dragon Health" = 500.0
+		"Dragon Health" = 3000.0
 		#Change this to slow down or speed up dragon or amphithere flight.
 		#Range: 0.0 ~ 2.0
 		"Dragon Flight Speed Modifier" = 1.0
@@ -146,10 +146,10 @@
 		"Dragon Moved Wrongly Error Fix" = false
 		#Damage dealt from a successful fire breath attack. Attack Damage is scaled to by age, so a stage 5 dragon will deal 5x as much as this number
 		#Range: 0.0 ~ 10000.0
-		"Dragon Attack Damage(Fire breath)" = 2.0
+		"Dragon Attack Damage(Fire breath)" = 50
 		#Max dragon attack damage. Attack Damage is scaled to this
 		#Range: 1 ~ 10000
-		"Dragon Attack Damage" = 17
+		"Dragon Attack Damage" = 100
 		#How long it takes(in ticks) for a dragon egg to hatch
 		#Range: > 1
 		"Dragon Egg Hatch Time" = 7200
@@ -158,7 +158,7 @@
 		"Dragon Flap Noise Distance" = 4
 		#Damage dealt from a successful ice breath attack. Attack Damage is scaled to by age, so a stage 5 dragon will deal 5x as much as this number
 		#Range: 0.0 ~ 10000.0
-		"Dragon Attack Damage(Ice breath)" = 2.5
+		"Dragon Attack Damage(Ice breath)" = 32
 
 [Mobs]
 
@@ -166,16 +166,16 @@
 		#True if sea serpents are allowed to spawn
 		"Spawn Sea Serpents" = true
 		#Whether or not sea serpents can break weak blocks in their way
-		"Sea Serpent Griefing" = true
+		"Sea Serpent Griefing" = false
 		#Default sea serpent attack strength, this is scaled to the sea serpent's particular size
 		#Range: 1.0 ~ 10000.0
-		"Sea Serpent Base Attack Strength" = 4.0
+		"Sea Serpent Base Attack Strength" = 12
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
 		"Spawn Sea Serpent Chance" = 250
 		#Default sea serpent health, this is scaled to the sea serpent's particular size
 		#Range: 1.0 ~ 10000.0
-		"Sea Serpent Base Health" = 20.0
+		"Sea Serpent Base Health" = 220.0
 
 	[Mobs.Others]
 		#True if hydra caves are allowed to generate
@@ -190,10 +190,10 @@
 		"Lich Spawn Weight" = 2
 		#Maximum ghost attack strength.
 		#Range: 0.0 ~ 10000.0
-		"Ghost Attack Strength" = 3.0
+		"Ghost Attack Strength" = 5.0
 		#Maximum hydra health
 		#Range: 1.0 ~ 10000.0
-		"Hydra Max Health" = 250.0
+		"Hydra Max Health" = 2500.0
 		#Villager Scribe House generation weight. Lower = lower chance to spawn
 		#Range: 0 ~ 10000
 		"Villager Scribe House Weight" = 22
@@ -206,14 +206,14 @@
 		"Allow Attribute Overriding" = true
 		#Maximum ghost health.
 		#Range: 1.0 ~ 10000.0
-		"Ghost Max Health" = 30.0
+		"Ghost Max Health" = 72.0
 
 	[Mobs.Gorgons]
 		#True if gorgon temples are allowed to spawn
 		"Spawn Gorgons" = true
 		#Maximum gorgon health
 		#Range: 1.0 ~ 10000.0
-		"Gorgon Max Health" = 100.0
+		"Gorgon Max Health" = 1200.0
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
 		"Spawn Gorgon Chance" = 75
@@ -226,7 +226,7 @@
 		"Death Worm Spawn Check Chance" = 3
 		#Default deathworm health, this is scaled to the worm's particular size
 		#Range: 1.0 ~ 10000.0
-		"Death Worm Base Health" = 10.0
+		"Death Worm Base Health" = 100.0
 		#Default deathworm attack strength, this is scaled to the worm's particular size
 		#Range: 1.0 ~ 10000.0
 		"Death Worm Base Attack Strength" = 3.0
@@ -255,12 +255,12 @@
 		"Spawn Sirens Chance" = 400
 		#Maximum siren health
 		#Range: 1.0 ~ 10000.0
-		"Siren Max Health" = 50.0
+		"Siren Max Health" = 75.0
 
 	[Mobs.Cockatrice]
 		#Maximum cockatrice health
 		#Range: 1.0 ~ 10000.0
-		"Cockatrice Health" = 40.0
+		"Cockatrice Health" = 75.0
 		#True if cockatrices are allowed to spawn
 		"Spawn Cockatrices" = true
 		#Cockatrice spawn weight. Lower = lower chance to spawn
@@ -283,18 +283,18 @@
 		"Spawn Cyclops Cave Chance" = 100
 		#Maximum cyclops health
 		#Range: 1.0 ~ 10000.0
-		"Cyclops Max Health" = 150.0
+		"Cyclops Max Health" = 2800.0
 		#Whether or not cyclops can break logs or leaves in their way
 		"Cyclops Griefing" = true
 		#Amount of damage done with cyclops bite attack.
 		#Range: 1.0 ~ 10000.0
-		"Cyclops Bite Strength" = 40.0
+		"Cyclops Bite Strength" = 850.0
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
 		"Spawn Wandering Cyclops Chance" = 100
 		#Cyclops attack strength
 		#Range: 1.0 ~ 10000.0
-		"Cyclops Attack Strength" = 15.0
+		"Cyclops Attack Strength" = 250.0
 		#True if wandering cyclopes are allowed to spawn
 		"Spawn Wandering Cyclopes" = true
 		#How many blocks away can cyclopes detect sheep. Note that increasing this could cause lag.
@@ -307,7 +307,7 @@
 		"Troll Spawn Weight" = 40
 		#Troll attack strength
 		#Range: 1.0 ~ 10000.0
-		"Troll Attack Strength" = 10.0
+		"Troll Attack Strength" = 64.0
 		#True if trolls are allowed to spawn
 		"Spawn Trolls" = true
 		#A double check to see if the game can spawn trolls. Higher number = lower chance to spawn.
@@ -315,7 +315,7 @@
 		"Troll Spawn Check Chance" = 2
 		#Maximum troll health
 		#Range: 1.0 ~ 10000.0
-		"Troll Max Health" = 50.0
+		"Troll Max Health" = 420.0
 		#True if trolls are allowed to drop their weapon on death.
 		"Trolls Drop Weapon" = true
 
@@ -335,13 +335,13 @@
 		"Myrmex Gestation Length" = 2500
 		#Base Myrmex(worker) attack strength
 		#Range: 1.0 ~ 10000.0
-		"Myrmex Base Attack Strength" = 3.0
+		"Myrmex Base Attack Strength" = 30.0
 		#The maximum radius myrmex area allowed to wander/forage
 		#Range: 25 ~ 4000
 		"Myrmex Maximum Wander Radius" = 50
 		#How many maximum individuals a myrmex colony can have.
 		#Range: 10 ~ 10000
-		"Myrmex Colony Max Size" = 80
+		"Myrmex Colony Max Size" = 100
 
 	[Mobs.Hippogryph]
 		#Hippogryph spawn weight. Lower = lower chance to spawn.
@@ -389,7 +389,7 @@
 		"Stymphalian Birds drop ore dict items" = true
 		#Stymphalian bird feather attack strength.
 		#Range: 0.0 ~ 10000.0
-		"Stymphalian Bird Feather Attack Strength" = 1.0
+		"Stymphalian Bird Feather Attack Strength" = 12.0
 
 	[Mobs.Amphitheres]
 		#How fast amphitheres fly.
@@ -402,10 +402,10 @@
 		"Amphithere Spawn Weight" = 50
 		#Maximum amphithere health
 		#Range: 1.0 ~ 10000.0
-		"Amphithere Max Health" = 50.0
+		"Amphithere Max Health" = 750.0
 		#Amphithere attack strength
 		#Range: 1.0 ~ 10000.0
-		"Amphithere Attack Strength" = 7.0
+		"Amphithere Attack Strength" = 28.0
 		#How many blocks away can ampitheres detect villagers being hurt. Note that increasing this could cause lag.
 		#Range: 1 ~ 10000
 		"Amphithere Villager Search Length" = 64
@@ -426,24 +426,24 @@
 [Items]
 	#Default durability value of dragonsteel tools.
 	#Range: > 1
-	"Dragonsteel Base Durability" = 8000
+	"Dragonsteel Base Durability" = 15000
 	#True if the dragon bone fire sword ignites attackers.
 	"Dragon Bone Fire Abilities" = true
 	#True if the dragon bone ice sword freezes attackers.
 	"Dragon Bone Ice Abilities" = true
 	#Default armor value of dragonsteel chestplate.
 	#Range: > 7
-	"Dragonsteel Base Armor" = 12
+	"Dragonsteel Base Armor" = 24
 	#Disable this to remove easter egg with tinkers installed.
 	Weezer = true
 	#Default durability value of dragonsteel equipment.
 	#Range: > 1
-	"Dragonsteel Base Durability Equipment" = 8000
+	"Dragonsteel Base Durability Equipment" = 15000
 	#True if the summon crystal can load chunks to find dragons.
 	"Chunk Load Summon Crystal" = true
 	#Default attack strength of a dragonsteel sword.
 	#Range: 5.0 ~ 2.147483647E9
-	"Dragonsteel Sword Base Attack Strength" = 25.0
+	"Dragonsteel Sword Base Attack Strength" = 48.0
 	#True if the dragon bone lightning sword strikes attackers.
 	"Dragon Bone Lightning Abilities" = true
 	#Percentage of critical strike that will disarm with easter egg tinkers material.
