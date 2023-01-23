@@ -75,6 +75,7 @@ Type | Name | Version | Link |
 | | Dynamic Trees - Quark Plugin | `2.1.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark)
 | | Dynamic Trees - TerraForged | `1.0.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-terraforged)
 | | Dynamic Trees - Voyage | `0.0.0.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-voyage)
+| | End Remastered | `5.0.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/endremastered)
 | | Infernal Expansion `2.5.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
 | | Mowzies Mobs | `1.5.27` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
 | | Mystical World | `0.3.6.27` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mystical-world)
