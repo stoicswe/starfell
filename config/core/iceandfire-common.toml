@@ -335,7 +335,7 @@
 		"Myrmex Gestation Length" = 2500
 		#Base Myrmex(worker) attack strength
 		#Range: 1.0 ~ 10000.0
-		"Myrmex Base Attack Strength" = 30.0
+		"Myrmex Base Attack Strength" = 25.0
 		#The maximum radius myrmex area allowed to wander/forage
 		#Range: 25 ~ 4000
 		"Myrmex Maximum Wander Radius" = 50
@@ -389,7 +389,7 @@
 		"Stymphalian Birds drop ore dict items" = true
 		#Stymphalian bird feather attack strength.
 		#Range: 0.0 ~ 10000.0
-		"Stymphalian Bird Feather Attack Strength" = 12.0
+		"Stymphalian Bird Feather Attack Strength" = 8.0
 
 	[Mobs.Amphitheres]
 		#How fast amphitheres fly.
@@ -405,7 +405,7 @@
 		"Amphithere Max Health" = 750.0
 		#Amphithere attack strength
 		#Range: 1.0 ~ 10000.0
-		"Amphithere Attack Strength" = 28.0
+		"Amphithere Attack Strength" = 20.0
 		#How many blocks away can ampitheres detect villagers being hurt. Note that increasing this could cause lag.
 		#Range: 1 ~ 10000
 		"Amphithere Villager Search Length" = 64

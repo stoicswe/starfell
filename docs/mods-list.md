@@ -76,7 +76,7 @@ Type | Name | Version | Link |
 | | Dynamic Trees - TerraForged | `1.0.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-terraforged)
 | | Dynamic Trees - Voyage | `0.0.0.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-voyage)
 | | End Remastered | `5.0.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/endremastered)
-| | Infernal Expansion `2.5.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
+| | Infernal Expansion | `2.5.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
 | | Mowzies Mobs | `1.5.27` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
 | | Mystical World | `0.3.6.27` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mystical-world)
 | | Oh The Biomes You'll Go | `1.3.6` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)
@@ -117,7 +117,7 @@ Type | Name | Version | Link |
 | | Yungs API | `1.16.4-Forge13` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
 **Quality of Life** | | |
 | | Bad Whither No Cookie | `3.10.16` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
-| | Better Diving | ``.3.5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/better-diving)
+| | Better Diving | `1.3.5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/better-diving)
 | | Catalogue | `1.6.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/catalogue)
 | | Corail Tombstone | `6.8.7` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
 | | Elytra Slot | `4.0.2.4` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/elytra-slot)
@@ -171,6 +171,8 @@ Type | Name | Version | Link |
 | | Shutup Experimental Settings | `1.0.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings)
 | | Sound Device Options | `1.4.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/more-sound-config)
 | | Tip the Scales | `3.0.0.15` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tipthescales)
+**Shaders** | | |
+| | (Optional): Optifine | `1.16.5` | [Optifine](https://www.optifine.net/home)
 **UI** | | |
 | | Just Enough Items (JEI) | `7.7.1.153` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/jei)
 | | Light Overlay | `1.18.19` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/light-overlay)
