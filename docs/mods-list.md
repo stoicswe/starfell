@@ -35,6 +35,7 @@ Type | Name | Version | Link |
 | | More Dragon Eggs | `2.5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs)
 | | Natures Aura | `34.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
 | | Necrum! Devil's Request | `2.6.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/necrom)
+| | Occultism | `1.29.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/occultism)
 | | Pams Harvestcraft Crops | `1.0.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
 | | Pams Harvestcraft - Food Core | `1.0.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
 | | Pipez | `1.2.15` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/pipez)
