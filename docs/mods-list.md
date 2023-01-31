@@ -18,6 +18,7 @@ Type | Name | Version | Link |
 | | Botania | `420.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/botania)
 | | Bountiful | `3.3.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/bountiful)
 | | Brass Amber Battle Towers | `1.6.3` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/brassamberbattletowers)
+| | Camera Mod | `1.0.14` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/camera-mod)
 | | Cosmetic Armor Reworked | `1.16.5-v5` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 | | Create | `0.3.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/create)
 | | Dungeon Crawl | `2.3.9` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
