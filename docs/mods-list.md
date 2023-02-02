@@ -197,4 +197,5 @@ Type | Name | Version | Link |
 | | Chunk Pregernerator | `3.5.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator)
 | | Not Enough Crashes | `4.1.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
 **Quality of Life** | | |
+| | AutoRestart | `2.0.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/auto-restart)
 | | Nether Portal Fix | `7.2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
