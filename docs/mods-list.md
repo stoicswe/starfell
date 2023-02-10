@@ -168,6 +168,7 @@ Type | Name | Version | Link |
 | | Better Foliage | `2.7.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/better-foliage)
 | | Drawer FPS | `2.1` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/drawerfps)
 | | Entity Culling | `1.5.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/entityculling)
+| | Farsight | `1.7.0` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/farsight)
 | | Spawner Bug Fix | `1.0.0.2` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/spawner-fix)
 **Quality of Life** | | |
 | | ReAuth | `4.0.6` | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/reauth)

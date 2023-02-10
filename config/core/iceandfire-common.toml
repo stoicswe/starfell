@@ -132,7 +132,7 @@
 	[Dragons.Attributes]
 		#Damage dealt from a successful lightning breath attack. Attack Damage is scaled to by age, so a stage 5 dragon will deal 5x as much as this number
 		#Range: 0.0 ~ 10000.0
-		"Dragon Attack Damage(Lightning breath)" = 85
+		"Dragon Attack Damage(Lightning breath)" = 55
 		#Dragon Flute Distance - how many chunks away is the dragon flute effective?
 		#Range: 0 ~ 10000
 		"Dragon Flute Distance" = 4
@@ -169,7 +169,7 @@
 		"Sea Serpent Griefing" = false
 		#Default sea serpent attack strength, this is scaled to the sea serpent's particular size
 		#Range: 1.0 ~ 10000.0
-		"Sea Serpent Base Attack Strength" = 12
+		"Sea Serpent Base Attack Strength" = 8
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
 		"Spawn Sea Serpent Chance" = 250
@@ -216,7 +216,7 @@
 		"Gorgon Max Health" = 1200.0
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Spawn Gorgon Chance" = 75
+		"Spawn Gorgon Chance" = 85
 
 	[Mobs.DeathWorms]
 		#True if wild deathworms are allowed to target and attack monsters
