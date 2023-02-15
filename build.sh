@@ -12,8 +12,13 @@ if [ [ -d "./target" ]] then
 fi
 mkdir "./target"
 # extract the built artifacts
+docker cp extract-starfall-build:/src/client ./target/
 docker cp extract-starfall-build:/src/target/starfall-client-${1}.tar.gz ./target/
+docker cp extract-starfall-build:/src/server ./target/
 docker cp extract-starfall-build:/src/target/starfall-server-${1}.tar.gz ./target/
 # cleanup
 docker rm extract-starfall-build --force
 docker rm starfall-buildr --force
+
+# Build local runtime
+docker build -f ./packaging/server-runtime.Dockerfile -t starfell-runtime .

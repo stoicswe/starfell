@@ -1,0 +1,55 @@
+version: '3.9'
+services:
+  starfell-server:
+    # If built locally, uncomment bwloe
+    # image: starfell-runtime
+    image: ibm-semeru-runtimes:open-11-jdk-jammy
+    environment:
+      PROCESS_COUNT: 24
+      MEMORY_SIZE: 8024M
+    working_dir: /starfell-server
+    restart: unless-stopped
+    entrypoint: ["/bin/sh", "-c", "./start-server.sh"]
+    healthcheck:
+      test: ["if [ $(pgrep -f java) > 0 ]; then echo \"true\"; fi"]
+      interval: 1m30s
+      timeout: 30s
+      retries: 5
+      start_period: 30s
+    deploy:
+      resources:
+        limits:
+          cpus: '24.0'
+          memory: 16G
+        reservations:
+          cpus: '2.0'
+          memory: 6G
+    ports:
+      - 25565:25565
+    volumes:
+      # Mount entire folder
+      - ./server-data:/starfell-server:rw
+      # EXAMPLE BINDS BELOW
+      ###################################
+      # Bind mout the EULA
+      #- type: bind
+      #  source: ./server/eula.txt
+      #  target: /starfell-server/eula.txt
+      # Bind mout the EULA
+      #- type: bind
+      #  source: ./server/server.properties
+      #  target: /starfell-server/server.properties
+      # Mount the world save location
+      #- ./server/world:/starfell-server/world:rw
+      # Mount the world backup location
+      #- ./server/backups:/starfell-server/backups:rw
+      # Mount the libraries location
+      #- ./server/libraries:/starfell-server/libraries:rw
+      # Mount the scripts location
+      #- ./server/scripts:/starfell-server/scripts:rw
+      # Mount the mods location
+      #- ./server/mods:/starfell-server/mods:rw
+      # Mount the config location
+      #- ./server/config:/starfell-server/config:rw
+      # Mount the crash reports
+      #- ./server/crash-reports:/starfell-server/crash-reports:rw

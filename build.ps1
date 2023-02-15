@@ -12,8 +12,13 @@ if(Test-Path "$curLoc/target") {
 }
 New-Item -Path "$curLoc/target" -ItemType Directory
 # extract the built artifacts
+docker cp extract-starfall-build:/src/client ./target/
 docker cp extract-starfall-build:/src/target/starfall-client-${VERSION}.tar.gz ./target/
+docker cp extract-starfall-build:/src/server ./target/
 docker cp extract-starfall-build:/src/target/starfall-server-${VERSION}.tar.gz ./target/
 # cleanup
 docker rm extract-starfall-build --force
 docker rm starfall-buildr --force
+
+# Build local runtime
+docker build -f ./packaging/server-runtime.Dockerfile -t starfell-runtime .

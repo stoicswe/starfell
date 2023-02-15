@@ -1,1 +1,23 @@
-java -Xms4048M -Xmx12048M -jar ./forge-1.16.5-36.2.39.jar --nogui
+java \
+    -XX:ActiveProcessorCount=$PROCESS_COUNT \
+    -XX:+UseG1GC \
+    -Xms$MEMORY_SIZE \
+    -Xmx$MEMORY_SIZE \
+    -XX:+UnlockExperimentalVMOptions \
+    -XX:+DisableExplicitGC \
+    -XX:G1NewSizePercent=20 \
+    -XX:G1ReservePercent=20 \
+    -XX:MaxGCPauseMillis=50 \
+    -XX:G1HeapRegionSize=32 \
+    -XX:+UseNUMA \
+    -XX:AllocatePrefetchStyle=3 \
+    -XX:NmethodSweepActivity=1 \
+    -XX:ReservedCodeCacheSize=400M \
+    -XX:NonNMethodCodeHeapSize=12M \
+    -XX:ProfiledCodeHeapSize=194M \
+    -XX:NonProfiledCodeHeapSize=194M \
+    -XX:-DontCompileHugeMethods \
+    -XX:+PerfDisableSharedMem \
+    -XX:+UseFastUnorderedTimeStamps \
+    -XX:+UseCriticalJavaThreadPriority \
+-jar ./forge-1.16.5-36.2.39.jar --nogui
